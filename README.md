@@ -31,35 +31,11 @@ Some of the projects showcased in my portfolio include:
 
 To view the project locally:
 
-1. Clone this repository:
+Clone this repository:
 
-   ```bash
- 
-   ```
-
-2. Open the project folder in VS Code.
-
-3. Open `index.html` in your browser.
-
-## What I Learned
-
-Through building this portfolio, I have been practising:
-
-- Structuring web pages using HTML.
-- Styling and creating layouts using CSS.
-- Working with images and navigation links.
-- Improving website responsiveness and user experience.
-- Organising projects and using Git and GitHub.
-
-## Future Improvements
-
-- Add more JavaScript projects.
-- Improve responsive design.
-- Add interactive features and animations.
-- Continue updating my portfolio as I develop new skills.
+https://github.com/mmella-code/website-portfolio.git
 
 
 
----
 
-*This portfolio represents my continuous learning journey and passion for web development.*
+
